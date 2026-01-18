@@ -5,7 +5,10 @@ Each exercise includes a problem description, solution explanation, and executio
 
 ---
 
-## Exercise 1 – Simulating the `ls` Command
+## Getting into Practice: Input/Output
+
+### Exercise 1 – Simulating the `ls` Command
+
 **Problem:**  
 Develop a Java program that simulates the `ls` command by displaying the list of files and directories contained in a given directory, along with their types and access permissions.
 
@@ -22,6 +25,7 @@ Develop a Java program that simulates the `ls` command by displaying the list of
 ---
 
 ## Exercise 2 – Product Management with Object Serialization
+
 **Problem:**  
 Create a product management system that allows storing, retrieving, searching, deleting, and saving products using object serialization in a file named `products.dat`.
 
@@ -33,6 +37,7 @@ Create a product management system that allows storing, retrieving, searching, d
 - Implemented a menu-driven application to interact with the user.
 
 **Execution screenshots :**  
+
 ***Display Menu :***
 ![Exercise 2 - Menu](screenshots/ex2_menu.jpg)  
 ***Display the list of products :***
@@ -49,9 +54,13 @@ Create a product management system that allows storing, retrieving, searching, d
 ![Exercise 2 - Actions](screenshots/ex2_5.jpg)
 ***Exiting the program :***
 ![Exercise 2 - Actions](screenshots/ex2_6.jpg)
+
 ---
 
-## Exercise 3 – Calculator with Exception Handling
+## Getting into Practice: Handling Exceptions
+
+### Exercise 1 – Calculator with Exception Handling
+
 **Problem:**  
 Create a `Calculator` class with methods to perform division, string-to-number conversion, and basic arithmetic operations while handling common errors.
 
@@ -65,7 +74,8 @@ Create a `Calculator` class with methods to perform division, string-to-number c
 
 ---
 
-## Exercise 4 – Custom Exception: Speed Control
+## Exercise 2 – Custom Exception: Speed Control
+
 **Problem:**  
 Create a custom exception to detect when a vehicle exceeds a defined speed limit and display the exception call stack.
 
