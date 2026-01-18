@@ -34,9 +34,10 @@ Create a product management system that allows storing, retrieving, searching, d
 
 **Execution screenshots:**  
 ![Exercise 2 - Menu](screenshots/ex2_menu.jpg)  
-![Exercise 2 - Actions](screenshots/ex2_1.jpg)
+![Exercise 2 - Actions](screenshots/ex2_1_before.jpg)
 ![Exercise 2 - Actions](screenshots/ex2_2.jpg)
 ![Exercise 2 - Actions](screenshots/ex2_3.jpg)
+![Exercise 2 - Actions](screenshots/ex2_1_before.jpg)
 ![Exercise 2 - Actions](screenshots/ex2_4.jpg)
 ![Exercise 2 - Actions](screenshots/ex2_5.jpg)
 ![Exercise 2 - Actions](screenshots/ex2_6.jpg)
@@ -52,7 +53,7 @@ Create a `Calculator` class with methods to perform division, string-to-number c
 - Implemented a `calculate(operation, a, b)` method using a `switch` statement.  
 - Displayed error messages for unsupported operations and invalid inputs.
 
-**No Execution screenshots in this Exercise:**  
+**No Execution screenshots in this Exercise** 
 
 ---
 
