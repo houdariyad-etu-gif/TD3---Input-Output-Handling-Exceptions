@@ -2,8 +2,6 @@ import java.io.File;
 import java.util.Scanner;
 
 public class LsSimulation {
-    //Getting into Practice: Input/Output
-    //Exercice 1
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -31,4 +29,5 @@ public class LsSimulation {
         }
     }
 }
+
 
