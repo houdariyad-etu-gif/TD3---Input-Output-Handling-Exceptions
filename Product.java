@@ -1,8 +1,6 @@
 import java.io.Serializable;
 public class Product implements Serializable{
-    //Getting into Practice: Input/Output
-    //Exercise 2: Objects Serialization
-
+    
     private long id;
     private String name;
     private String brand;
@@ -29,4 +27,5 @@ public class Product implements Serializable{
     }
 
 }
+
 
