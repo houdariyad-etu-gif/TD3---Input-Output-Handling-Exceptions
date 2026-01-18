@@ -51,10 +51,13 @@ Create a product management system that allows storing, retrieving, searching, d
 ![Exercise 2 - Actions](screenshots/ex2_3.jpg)
 
 ***Display the list of products after adding the new product :***
-![Exercise 2 - Actions](screenshots/ex2_1_after.jpg)
+![Exercise 2 - Actions](screenshots/ex2_1_after_adding_product.jpg)
 
 ***Delete a product by ID :***
 ![Exercise 2 - Actions](screenshots/ex2_4.jpg)
+
+***Display the list of products after deleting a product :***
+![Exercise 2 - Actions](screenshots/ex2_1_after_deleting_product.jpg)
 
 ***Save the products: this option saves the list of products to a file named products.dat :***
 ![Exercise 2 - Actions](screenshots/ex2_5.jpg)
