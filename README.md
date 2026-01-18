@@ -33,21 +33,21 @@ Create a product management system that allows storing, retrieving, searching, d
 - Implemented a menu-driven application to interact with the user.
 
 **Execution screenshots :**  
-Display Menu :
+***Display Menu :***
 ![Exercise 2 - Menu](screenshots/ex2_menu.jpg)  
-Display the list of products :
+***Display the list of products :***
 ![Exercise 2 - Actions](screenshots/ex2_1_before.jpg)
-Search for a product by its ID:
+***Search for a product by its ID:***
 ![Exercise 2 - Actions](screenshots/ex2_2.jpg)
-Add a new product to the list :
+***Add a new product to the list :***
 ![Exercise 2 - Actions](screenshots/ex2_3.jpg)
-Display the list of products after deleting the product :
+***Display the list of products after deleting the product :***
 ![Exercise 2 - Actions](screenshots/ex2_1_before.jpg)
-Delete a product by ID :
+***Delete a product by ID :***
 ![Exercise 2 - Actions](screenshots/ex2_4.jpg)
-Save the products: this option saves the list of products to a file named products.dat :
+***Save the products: this option saves the list of products to a file named products.dat :***
 ![Exercise 2 - Actions](screenshots/ex2_5.jpg)
-Exiting the program :
+***Exiting the program :***
 ![Exercise 2 - Actions](screenshots/ex2_6.jpg)
 ---
 
